@@ -24,6 +24,8 @@ h2 {
     text-align: center;
     font-size: 150%;
     color: pink;
+    text-decoration: underline;
+    text-decoration-color: plum;
 }
 
 p{
